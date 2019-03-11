@@ -1,0 +1,22 @@
+C:\Users\javi\Desktop\L0>doskey/history
+cd Desktop/
+git clone https://github.com/javimeza/L0
+git add
+cd L0
+git add
+git add *
+git commit -m "laboratorio 0"
+git commit -m "lab0"
+git add L0.txt
+git add lab0.txt
+git commit -m "lab0"
+git config --global user.email "jfmeza@uc.cl"
+git config --global user.name "javimeza"
+git commit -m "primer lab"
+git push
+git pull
+git push
+git pull
+doskey/history
+
+C:\Users\javi\Desktop\L0>
